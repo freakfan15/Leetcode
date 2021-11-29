@@ -1,4 +1,4 @@
-// 1. Two sum
+// 88. Merge Sorted Array
 
 #include <iostream>
 #include <vector>
